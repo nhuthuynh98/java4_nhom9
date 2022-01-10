@@ -1,0 +1,27 @@
+.chung{
+    width: 1200px;
+    height: 1000px;
+    display: flex;
+
+}
+.a {
+background-color: cornflowerblue;
+width: 60%;
+}
+.b {
+    background-color: crimson;
+    width: 30%;
+    }
+    .xem{
+width: 60%;
+height: 100px;
+background-color: darkcyan;
+border: darkgoldenrod solid 1px;
+
+    }
+
+    .video{
+        width: 70%;
+        height: 620px;
+        background-color: darkgray;
+    }
